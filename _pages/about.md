@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Home"
+title: "Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
