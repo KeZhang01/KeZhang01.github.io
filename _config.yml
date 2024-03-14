@@ -11,7 +11,7 @@ title                    : "Ke Zhang / Chinese Academy of Science"
 title_separator          : "-"
 name                     : &name "Ke Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kezhang01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -20,10 +20,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Ke Zhang.png"
   name             : "Ke Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Freshwater ecosytem in the Anthropocene"
+  bio              : "Human and Nature in the Anthropocene"
   location         : "China"
   employer         : "NIGLAS"
   uri              : # URL
