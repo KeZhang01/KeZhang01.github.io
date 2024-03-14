@@ -1,6 +1,6 @@
 ---
 #title: "Publications"
-#collection: publications
+collection: publications
 excerpt: '
           1.Lin, Q., Zhang K*, McGowan, S., Huang, S., Xue, Q., Capo, E., Zhang, C., Zhao, C. and Shen, J., 2023. Characterization of lacustrine harmful algal blooms using multiple biomarkers: Historical processes, driving synergy, and ecological shifts. Water Research, 235: 119916.
 
