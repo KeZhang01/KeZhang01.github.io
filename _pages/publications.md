@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "googlescholar"
+title: "Googlescholar"
 permalink: /publications/
 author_profile: true
 ---
