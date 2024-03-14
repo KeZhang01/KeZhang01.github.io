@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+
 excerpt: '1. Haberyan KA 2018: A >22,000 diatom record from the plateau of Zambia.  Quaternary Research 89: 33-42.
 
 
