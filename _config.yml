@@ -217,9 +217,7 @@ collections:
   Education:
     output: true
     permalink: /:collection/:path/
-  Publication:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -301,15 +299,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _Publication
-  - scope:
-      path: ""
-      type: Publication
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      
+
 
 
 
