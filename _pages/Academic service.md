@@ -1,7 +1,11 @@
+---
+layout: archive
+title: "Academic service"
+permalink: /Academic service/
+author_profile: true
+---
 
-
-
-
+# Academic service
 
 1. Thematic Editor: Anthropocene journal (2023-)
 2. The Integrated History and Future of People on Earth (IHOPE), Scientific Steering committee member (2015-2018)
