@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Locations of key files/directories
-## AAAAAAAA
+## BBBBBBBB
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
