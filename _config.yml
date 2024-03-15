@@ -301,7 +301,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # Publication
+  # _Publication
   - scope:
       path: ""
       type: Publication
