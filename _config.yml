@@ -298,6 +298,14 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # Publication
+  - scope:
+      path: ""
+      type: Publication
+    values:
+      layout: single
+      author_profile: true
+      share: true
       
 
 
