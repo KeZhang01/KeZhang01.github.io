@@ -1,36 +1,24 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research grants"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-# 发表论文
-
-在此页面，您可以找到我在学术领域的所有发表论文。论文列表按发表时间排序，最新的论文排在最前面。
-
-## 2024年
-
-- **论文标题1**
-  - **作者**: 你的名字, 合作者名字
-  - **摘要**: 简短介绍论文的内容和研究成果。
-  - **发表信息**: 期刊名称, 卷号, 页码, 年份。
-  - **链接**: [阅读全文](论文的在线链接)
-
-## 2023年
-
-- **论文标题2**
-  - **作者**: 你的名字, 合作者名字
-  - **摘要**: 简短介绍论文的内容和研究成果。
-  - **发表信息**: 期刊名称, 卷号, 页码, 年份。
-  - **链接**: [阅读全文](论文的在线链接)
-
-## 2022年
-
-- **论文标题3**
-  - **作者**: 你的名字, 合作者名字
-  - **摘要**: 简短介绍论文的内容和研究成果。
-  - **发表信息**: 期刊名称, 卷号, 页码, 年份。
-  - **链接**: [阅读全文](论文的在线链接)
+1. National Natural Science Foundation of China, Sustainable Development International Cooperation Program (the Global Research Council): Define achievable targets for ecosystem restoration: learning from long-term social-ecological dynamics (No.42361144717). 2024/01-2026/12, 600 thousand RMB, Principal Investigator
+2. National Natural Science Foundation of China, Key project: Dynamics mechanisms of lake ecosystem evolution under abrupt environmental change and ecological security assessment on the
+Tibetan Plateau (No.42230507). 2023/01-2027/12, 3.1 million RMB, Co-investigator
+3. PRC Ministry of Science and Technology (MOST), National Key Research and Development Program of China, Early human impact on the Lake catchment in the Holocene (No. 2022YFF0801101). 2022/12-2027/11, 21 million RMB, Co-Investigator
+4. Chinese Academy of Science “Hundred Talents” Project, Dynamics of linked social-ecological systems, 2016/05-2021/12, 3.3 million RMB, Principal investigator
+5. National Natural Science Foundation of China, Ecosystem evolution and regime shift over the past 200 years in Taihu Lake. 2018/01-2021/12, 800 thousand RMB, Principal investigator
+6. PRC Ministry of Science and Technology (MOST) , National Key Research and Development Program of China, Long term changes of lake ecosystems and ecological safety in Chinese monsoon regions (NO.2017YFA0605200). 2017/01-2021/12, 13 million RMB, Co-Investigator
+7. National Natural Science Foundation of China, Science Fund for Creative Research Groups: the Lake environmental change and ecological response, 2017/01-2021/12, 10.5 million RMB, Co-Investigator
+8. Key breakthrough project of the 13th five-year plan programs, Chinese Academy of Sciences. Lake ecosystem evolution and global change. 2016/12-2020/12, 3 million RMB, Co-Investigator
+9. Australian Research Council, Science for management of coral reefs (sub-program: resilience of linked social-ecological system), 2012/01-2016/01, 2 million Australian Dollars, Co-Investigator
+10. UK NERC & ESRC, Poverty and ecology: developing a new evolutionary approach.2011/01-2012/11, 230 thousand Pound. Co-Investigator
+11. UK NERC & ESRC, Poverty and ecology: communicating complexity.2012/11-2013/11, 20 thousand Pound. Co-Investigator
+12. UK NERC & ESRC, Safe operating spaces for regional rural development: a new conceptual tool for evaluating. 2012/9-2013/10, 50 thousand Pound. Co-Investigator
+13. National Natural Science Foundation of China, Holocene climate change revealed by high-resolution pollen record from Tianchi Lake, Liupan Moutain. 2009/01-2121/12, 230 thousand RMB, Co-Investigator
+14. National Natural Science Foundation of China, Holocene climate change reconstructed by pollen record in the Qaidam Basin, northeast Tibetan Plateau. 2008/01-2010/12, 420 thousand RMB, Co-Investigator
