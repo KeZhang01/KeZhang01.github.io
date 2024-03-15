@@ -217,6 +217,9 @@ collections:
   Education:
     output: true
     permalink: /:collection/:path/
+  ABC:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -295,6 +298,14 @@ defaults:
   - scope:
       path: ""
       type: Education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _ABC
+  - scope:
+      path: ""
+      type: ABC
     values:
       layout: single
       author_profile: true
