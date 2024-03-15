@@ -208,6 +208,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/
+  Academic service:
+    output: true
+    permalink: /:collection/:path/
+  Education:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -263,6 +272,30 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _Research
+  - scope:
+      path: ""
+      type: Research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _Academic service
+  - scope:
+      path: ""
+      type: Academic service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _Education
+  - scope:
+      path: ""
+      type: Education
+    values:
+      layout: single
       author_profile: true
       share: true
 
