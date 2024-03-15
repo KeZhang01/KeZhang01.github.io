@@ -219,7 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: flas
       comments: true
       share: true
       related: true
