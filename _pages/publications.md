@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Googlescholar"
 permalink: /publications/
+title: "Googlescholar"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 {% if site.author.googlescholar %}
