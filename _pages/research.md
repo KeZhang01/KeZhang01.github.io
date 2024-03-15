@@ -1,3 +1,12 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 # 发表论文
 
 在此页面，您可以找到我在学术领域的所有发表论文。论文列表按发表时间排序，最新的论文排在最前面。
