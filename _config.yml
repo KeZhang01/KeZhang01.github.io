@@ -217,6 +217,9 @@ collections:
   Education:
     output: true
     permalink: /:collection/:path/
+  Publication:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
