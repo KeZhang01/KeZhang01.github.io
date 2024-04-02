@@ -23,7 +23,7 @@ author:
   avatar           : "Ke Zhang.png"
   name             : "Ke Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Human and Nature in the Anthropocene"
+  bio              : "Lakes in the Anthropocene"
   location         : "China"
   employer         : "Chinese Academy of Science"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : https://twitter.com/ZhangKe_2014
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
