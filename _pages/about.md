@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Professor at the Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences. My research is primarily centered around the profound transformations occurring in our global environment. His work uniquely integrates climate science, human activities, and environmental processes, spanning timescales from decades to centuries. His research portfolio encompasses both theoretical and applied dimensions. On the theoretical front, Dr. Zhang's work is devoted to the examination of resilience, abrupt shifts, tipping points, and transient dynamics within various systems. These systems range from phytoplankton and zooplankton communities to entire lake ecosystems, and he also explores the intricate interplay within social-ecological systems as a whole. Through a meticulous combination of historical records and cutting-edge modeling, he uncovers the evolution of these dynamic systems from the distant past to our contemporary era.
+Hello, I am Ke Zhang.
 
-From a practical standpoint, a significant portion of Dr. Zhang's research revolves around applied paleoecology, biodiversity conservation, and ecosystem management. His contributions include the development of restoration targets derived from long-term environmental records, empowering informed and sustainable restoration and management strategies. Notably, His work involves developing proper restoration target from long-term environmental record, to inform sustainable restoration and management, with a focus on aquatic ecosystem within the Anthropocene epoch. 
+I am a research scientist at the Key Laboratory of Lake Science and Environment, Chinese Academy of Sciences. My research is focused on the long-term dynamics of freshwater ecosystems, primarily lakes, and their implications for conservation, sustainability, and ecosystem services during the Anthropocene.
+
+More specifically, through the use of diverse methodologies including lake sediment analysis, GIS, and dynamic modeling, I investigate the trajectories of lake ecosystems, the resilience of social-ecological systems, and transient dynamics over scales ranging from several decades to centuries. My interest also extends to applied paleoecology, particularly in using historical data to inform restoration targets in support of achieving the Sustainable Development Goals (SDGs).
+
+Over the past decade, I have worked on nearly 50 lakes throughout China, from the deep lakes of the Tibetan Plateau—situated above 5000 meters—to the shallow lakes in the densely populated areas of East China's Yangtze River Delta region."
 
 
 
