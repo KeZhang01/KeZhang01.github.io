@@ -9,11 +9,11 @@ redirect_from:
 
 Hello, I am Ke Zhang.
 
-I am a research scientist at the Key Laboratory of Lake Science and Environment, Chinese Academy of Sciences. My research is focused on the long-term dynamics of freshwater ecosystems, primarily lakes, and their implications for conservation, sustainability, and ecosystem services during the Anthropocene.
+I am a professor at the State Key Laboratory of Lake Science and Environment, Chinese Academy of Sciences. My research is focused on the long-term dynamics of freshwater ecosystems, primarily lakes, and their implications for conservation, sustainability, and ecosystem services during the Anthropocene.
 
 More specifically, through the use of diverse methodologies including lake sediment analysis, GIS, and dynamic modeling, I investigate the trajectories of lake ecosystems, the resilience of social-ecological systems, and transient dynamics over scales ranging from several decades to centuries. My interest also extends to applied paleoecology, particularly in using historical data to inform restoration targets in support of achieving the Sustainable Development Goals (SDGs).
 
-Over the past decade, I have worked on nearly 50 lakes throughout China, from the deep lakes of the Tibetan Plateau—situated above 5000 meters—to the shallow lakes in the densely populated areas of East China's Yangtze River Delta region."
+Over the past decade, I have worked on nearly 50 lakes throughout China, from the deep lakes of the Tibetan Plateau—situated above 5000 meters—to the shallow lakes in the densely populated areas of East China's Yangtze River Delta region.
 
 
 
