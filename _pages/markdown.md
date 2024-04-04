@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% if site.author.googlescholar %}
-<font color=#FF0000>  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8DTFIfgAAAAJ&hl=en">my Google Scholar profile</a>.</u></font>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8DTFIfgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 {% endif %}
 
-
+<font color=#FF0000>红色：#FF0000 </font>
 
 On this page, you can find a list of my published academic papers. The papers are listed in reverse chronological order, with the most recent publications at the top.
 
