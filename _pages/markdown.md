@@ -18,7 +18,9 @@ On this page, you can find a list of my published academic papers. The papers ar
 # First author/corresponding author（*）
 
 - Lin, Q., **Zhang K***, McGowan, S., Xue, Q., Capo, E., Zhang, C., Zhao, C. and Shen, J., 2023. Characterization of lacustrine harmful algal blooms using multiple biomarkers: Historical processes, driving synergy, and ecological shifts. **Water Research**, 235: 119916. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2023.119916-blue)](https://doi.org/10.1016/j.watres.2023.119916)
+
 - Huang SX, **Zhang K***, Lin Q, Shen J., Abrupt ecological shifts of lakes during the Anthropocene. **Earth-Science Reviews**.2022. 227: p. 103981. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.earscirev.2022.103981-blue)](https://doi.org/10.1016/j.earscirev.2022.103981)
+  
 - Huang SX, **Zhang K***, Lin Q, Kattel G, Shen J., Lake ecosystem regime shifts induced by agricultural intensification: A century-scale paleolimnological investigation from the Huai River Basin (China). **Quaternary Science Reviews**. 2022: 285:107522. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.quascirev.2022.107522-blue)](https://doi.org/10.1016/j.quascirev.2022.107522)
 - Huang FF, **Zhang K***, Huang SX, Lin Q. Patterns and trajectories of macrophyte change in East China's shallow lakes over the past one century. **Sci China-Earth Sci**. 2021(1674-7240). [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11430--020--9806--9-blue)](https://doi.org/10.1007/s11430-020-9806-9)
 - Lin Q, **Zhang K***, McGowan S, Capo E, Shen J. Synergistic impacts of nutrient enrichment and climate change on long-term water quality and ecological dynamics in contrasting shallow-lake zones. **Limnology and Oceanography**. 2021. [![DOI](https://img.shields.io/badge/DOI-10.1002%2Flno.11878-blue)](https://doi.org/10.1002/lno.11878)
