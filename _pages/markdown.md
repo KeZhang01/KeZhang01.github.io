@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8DTFIfgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+<font color=#FF0000>  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8DTFIfgAAAAJ&hl=en">my Google Scholar profile</a>.</u></font>
 {% endif %}
 
 
