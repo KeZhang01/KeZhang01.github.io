@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<span style="font-family: 'Times New Roman';">
 
 {% if site.author.googlescholar %}
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=8DTFIfgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
@@ -53,7 +52,7 @@ On this page, you can find a list of my published academic papers. The papers ar
 - Dearing JA, **Zhang K**, Cao W, Dawson TP, McKay DA, Sillitoe P, et al. Who determines the trade-offs between agricultural production and environmental quality? An evolutionary perspective from rural eastern China. **International Journal of Agricultural Sustainability**. 2019:1-20. [![DOI](https://img.shields.io/badge/DOI-10.1080%2F14735903.2019.1667141-blue)](https://doi.org/10.1080/14735903.2019.1667141)
 - Kattel G, **Zhang K**, Yang XD. Application of subfossil cladocerans (water fleas) in assessing ecological resilience of shallow Yangtze River floodplain lake systems (China). **Sci China-Earth Sci**. 2018;61(9):1157-68. [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11430--017--9218--6-blue)](https://doi.org/10.1007/s11430-017-9218-6)
 - Kattel G, Cai Y, Yang X, **Zhang K**, Hao X, Wang R, et al. Potential Indicator Value of Subfossil Gastropods in Assessing the Ecological Health of the Middle and Lower Reaches of the Yangtze River Floodplain System (China). **Geosciences**. 2018;8(6):222. [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fgeosciences8060222-blue)](https://doi.org/10.3390/geosciences8060222)
-- Xu M, Dong XH, Yang XD, Wang R, **Zhang K**, Zhao YJ, et al. Using palaeolimnological data and historical records to assess long-term dynamics of ecosystem services in typical Yangtze shallow lakes (China). Science of the Total Environment. 2017;584:791-802. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2017.01.118-blue)](https://doi.org/10.1016/j.scitotenv.2017.01.118)
+- Xu M, Dong XH, Yang XD, Wang R, **Zhang K**, Zhao YJ, et al. Using palaeolimnological data and historical records to assess long-term dynamics of ecosystem services in typical Yangtze shallow lakes (China). **Science of the Total Environment**. 2017;584:791-802. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2017.01.118-blue)](https://doi.org/10.1016/j.scitotenv.2017.01.118)
 - Dearing J, Acma B, Bub S, Chambers F, Chen X, Cooper J,… **Zhang K**. Social-ecological systems in the Anthropocene: the need for integrating social and biophysical records at regional scales. **The Anthropocene Review**. 2015. [![DOI](https://img.shields.io/badge/DOI-10.1177%2F2053019615579128-blue)](https://doi.org/10.1177/2053019615579128)
 - Dearing JA, Wang R, **Zhang K**, Dyke JG, Haberl H, Hossain MS, et al. Safe and just operating spaces for regional social-ecological systems. **Global Environmental Change**. 2014;28(1):227-38. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.gloenvcha.2014.06.012-blue)](https://doi.org/10.1016/j.gloenvcha.2014.06.012)
 - Dearing JA, Yang X, Dong X, Zhang E, Chen X, Langdon PG, ..**Zhang K**. Extending the timescale and range of ecosystem services through paleoenvironmental analyses, exemplified in the lower Yangtze basin. **Proceedings of the National Academy of Sciences of the United States of America**. 2012;109(18):E1111-E20. [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.1118263109-blue)](https://doi.org/10.1073/pnas.1118263109)
@@ -63,4 +62,3 @@ On this page, you can find a list of my published academic papers. The papers ar
 - 黄菲帆，**张科***，黄世鑫，林琪。过去百年来中国东部浅水湖泊水生植被演化模式。 **中国科学.地球科学** 2021(1674-7240)。
 - 刘维淦，林琪，**张科**，沈吉。太湖流域长荡湖百年来生态环境演变过程。**湖泊科学**。2022 （2）：675-683.
 - 羊向东，王荣，董旭辉，王倩，陈旭, 徐敏, **张科**。 中国湖泊古生态研究进展。**湖泊科学**. 2020(5)：1380-95。
-</span>
