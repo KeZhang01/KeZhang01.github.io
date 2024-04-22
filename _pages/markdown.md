@@ -15,6 +15,8 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 # First author/corresponding author（*）
 
+- Lin, Q., **K. Zhang***, C. Giguet-Covex, F. Arnaud, S. McGowan, L. Gielly, E. Capo, S. Huang, G. F. Ficetola, **J. Shen***, J. A. Dearing and M. E. Meadows, 2024. Transient social-ecological dynamics reveal signals of decoupling in a highly disturbed Anthropocene landscape. **Proc Natl Acad Sci U S A**, 121(17): e2321303121. [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2321303121-blue)](https://doi.org/10.1073/pnas.2321303121)
+
 - Lin, Q., **Zhang K***, McGowan, S., Xue, Q., Capo, E., Zhang, C., Zhao, C. and Shen, J., 2023. Characterization of lacustrine harmful algal blooms using multiple biomarkers: Historical processes, driving synergy, and ecological shifts. **Water Research**, 235: 119916. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2023.119916-blue)](https://doi.org/10.1016/j.watres.2023.119916)
 
 - Huang SX, **Zhang K***, Lin Q, Shen J., Abrupt ecological shifts of lakes during the Anthropocene. **Earth-Science Reviews**.2022. 227: p. 103981. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.earscirev.2022.103981-blue)](https://doi.org/10.1016/j.earscirev.2022.103981)
