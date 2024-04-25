@@ -15,6 +15,9 @@ More specifically, through the use of diverse methodologies including lake sedim
 
 Over the past decade, I have worked on nearly 50 lakes throughout China, from the deep lakes of the Tibetan Plateau—situated above 5000 meters—to the shallow lakes in the densely populated areas of East China's Yangtze River Delta region.
 
+------------------------------------------------------------------------------------------------
+张科，研究员，博士生导师，中国科学院南京地理与湖泊研究所。研究方向全球变化、水生态演化与安全评估。在PNAS, Trends in Ecology & Evolution, Earth-Science Reviews、Water Research、Limnology and Oceanography、Quaternary Science Reviews等期刊发表SCI论文50多篇。主持中国科学院人才引进计划、自然基金委国际合作等项目，参与重点研发计划、基金委重点等项目。《Anthropocene》杂志副主编。
 
+邮箱：kzhang@niglas.ac.cn
 
 
