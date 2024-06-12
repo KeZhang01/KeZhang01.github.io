@@ -15,7 +15,7 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 # First author/corresponding author（*）
 
-- Han, Y., Lin, Q., Huang, S., Du, C., Shen, J., & **Zhang, K**. (2024). Human impacts dominate global loss of lake ecosystem resilience. **Geophysical Research Letters**, 51, e2024GL109298. [![DOI](https://img.shields.io/badge/DOI-10. 1029%2F2024GL109298-blue)](https://doi.org/10. 1029/2024GL109298)
+- Han, Y., Lin, Q., Huang, S., Du, C., Shen, J., & **Zhang, K**. (2024). Human impacts dominate global loss of lake ecosystem resilience. **Geophysical Research Letters**, 51, e2024GL109298. [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024GL109298-blue)](https://doi.org/10.1029/2024GL109298)
 
 - Lin, Q., **Zhang K***, Giguet-Covex, C., Arnaud, F., McGowan, S., Gielly, L., Capo E., Huang S., Ficetola G. F., Shen J, Dearing J. A, Meadows, M. E. (2024). Transient social-ecological dynamics reveal signals of decoupling in a highly disturbed Anthropocene landscape. **Proc Natl Acad Sci U S A**, 121, e2321303121. [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2321303121-blue)](https://doi.org/10.1073/pnas.2321303121)
 
