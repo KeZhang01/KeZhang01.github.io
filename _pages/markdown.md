@@ -15,7 +15,7 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 # First author/corresponding author（*）
 
-- Han, Y., Lin, Q., Huang, S., Du, C., Shen, J., & **Zhang, K**. (2024). Human impacts dominate global loss of lake ecosystem resilience. **Geophysical Research Letters**, 51, e2024GL109298. [![DOI](https://img.shields.io/badge/DOI-10. 1029%2F2024GL109298-blue)] (https://doi.org/10. 1029/2024GL109298)
+- Han, Y., Lin, Q., Huang, S., Du, C., Shen, J., & **Zhang, K**. (2024). Human impacts dominate global loss of lake ecosystem resilience. **Geophysical Research Letters**, 51, e2024GL109298. [![DOI](https://img.shields.io/badge/DOI-10. 1029%2F2024GL109298-blue)](https://doi.org/10. 1029/2024GL109298)
 
 - Lin, Q., **Zhang K***, Giguet-Covex, C., Arnaud, F., McGowan, S., Gielly, L., Capo E., Huang S., Ficetola G. F., Shen J, Dearing J. A, Meadows, M. E. (2024). Transient social-ecological dynamics reveal signals of decoupling in a highly disturbed Anthropocene landscape. **Proc Natl Acad Sci U S A**, 121, e2321303121. [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2321303121-blue)](https://doi.org/10.1073/pnas.2321303121)
 
@@ -101,12 +101,12 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 - Li FR, Sun JH, Zhao Y, Guo XL, Zhao WW, **Zhang K**. Ecological significance of common pollen ratios: A review. **Front Earth Sci**. 2010;4(3):253-8. [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11707--010--0112--7-blue)](https://doi.org/10.1007/s11707-010-0112-7)
 
-- 孙信尧,**张科**,林琪,沈吉.定量转换函数在人类世湖泊水环境变化研究中的应用. **地球科学进展**. 2024,39(05)：504-518.
+- 孙信尧, **张科**, 林琪, 沈吉. 定量转换函数在人类世湖泊水环境变化研究中的应用. **地球科学进展**. 2024,39(05)：504-518.
 
-- 王荣,**张科**,刘建宝,董旭辉,羊向东.湖泊流域生态系统演化对人类世研究的重要意义.**湖泊科学**, 2024,36(02):333-338.
+- 王荣, **张科**, 刘建宝, 董旭辉, 羊向东. 湖泊流域生态系统演化对人类世研究的重要意义. **湖泊科学**, 2024,36(02):333-338.
 
-- 刘维淦,林琪,**张科**,沈吉.太湖流域长荡湖百年来生态环境演变过程. **湖泊科学**. 2022 (2)：675-683.
+- 刘维淦, 林琪, **张科**, 沈吉. 太湖流域长荡湖百年来生态环境演变过程. **湖泊科学**. 2022 (2)：675-683.
 
-- 黄菲帆,**张科***,黄世鑫,林琪.过去百年来中国东部浅水湖泊水生植被演化模式. **中国科学.地球科学**. 2021(1674-7240).
+- 黄菲帆, **张科***, 黄世鑫, 林琪. 过去百年来中国东部浅水湖泊水生植被演化模式. **中国科学.地球科学**. 2021(1674-7240).
 
-- 羊向东,王荣,董旭辉,王倩,陈旭, 徐敏, **张科**. 中国湖泊古生态研究进展. **湖泊科学**. 2020(5)：1380-95.
+- 羊向东, 王荣, 董旭辉, 王倩, 陈旭, 徐敏, **张科**. 中国湖泊古生态研究进展. **湖泊科学**. 2020(5)：1380-95.
