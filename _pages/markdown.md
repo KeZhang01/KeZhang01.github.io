@@ -14,6 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 On this page, you can find a list of my published academic papers. The papers are listed in reverse chronological order, with the most recent publications at the top.
 
 # First author/corresponding author（*）
+- Qi Lin, **Ke Zhang***, Charline Giguet-Covex, Kai Li, Ludovic Gielly, Xiaqing Wang, Shixin Huang, Yaoyao Han, Nan Zhang, Fabien Arnaud, Ji Shen. (2024). Reconstructing Anthropocene dynamics of subtropical vegetation and plant diversity by combining sedimentary ancient DNA and pollen: A high-resolution comparative analysis from China’s Yangtze floodplain. **Fundamental Research**. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.fmre.2024.11.018-blue)](https://doi.org/10.1016/j.fmre.2024.11.018)
 
 - Han, Y., Lin, Q., Huang, S., Du, C., Shen, J., & **Zhang, K**. (2024). Human impacts dominate global loss of lake ecosystem resilience. **Geophysical Research Letters**, 51, e2024GL109298. [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024GL109298-blue)](https://doi.org/10.1029/2024GL109298)
 
