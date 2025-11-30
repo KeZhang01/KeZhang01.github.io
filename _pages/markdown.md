@@ -15,6 +15,14 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 # First author/corresponding author（*）
 
+- **Zhang K.***, Gillson, L., Jin, Y., McGowan, S., Finch, J., Liu, Z., ... & Taylor, D. (2025). Shifting paradigms: towards dynamic approaches to sustain Anthropocene lake ecosystems. **Science Bulletin**.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scib.2025.11.029)](https://doi.org/10.1016/j.scib.2025.11.029)
+
+- Du, C., **Zhang, K.***, Lin, Q., Huang, S., Han, Y., Ren, J., ... & Shen, J. (2025). Rapid ecological change outpaces climate warming in Tibetan glacier lakes. **Communications Earth & Environment**, 6(1), 523.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998)](https://doi.org/10.1038/s43247-025-02443-6)
+
+- Jin, Y., **Zhang, K.***, Lin, Q., Huang, S., Zhou, X., Ren, J., & Meadows, M. E. (2025). Aquatic community synchrony dynamics in response to multitrophic regime shifts: Paleoecological insights from a shallow lake. **Water Research**, 124402.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2025.124402)](https://doi.org/10.1016/j.watres.2025.124402)
+
+- Huang, S., Lin, Q., **Zhang K,***, Han, Y., Du, C., & Shen, J. (2025). Abrupt ecological shift and recovery trajectory of a peri‐urban lake in the Anthropocene: Insights from paleoecology and modeling projection. **Water Resources Research**, 61(6), e2024WR038925. [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024WR038925)](https://doi.org/10.1029/2024WR038925)
+
 - Du, C., **Zhang, K.***, Lin, Q., Huang, S., Han, Y. and Shen, J. (2025). Glacier Meltwater Input and Salinity Decline Promote Algal Growth in a Tibetan Saline Lake. **Freshwater Biology**, 70: e70010. [![DOI](https://img.shields.io/badge/DOI-10.1111%2Ffwb.70010-blue)](https://doi.org/10.1111/fwb.70010)
 
 - Qi Lin, **Ke Zhang***, Charline Giguet-Covex, Kai Li, Ludovic Gielly, Xiaqing Wang, Shixin Huang, Yaoyao Han, Nan Zhang, Fabien Arnaud, Ji Shen. (2024). Reconstructing Anthropocene dynamics of subtropical vegetation and plant diversity by combining sedimentary ancient DNA and pollen: A high-resolution comparative analysis from China’s Yangtze floodplain. **Fundamental Research**. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.fmre.2024.11.018-blue)](https://doi.org/10.1016/j.fmre.2024.11.018)
@@ -68,6 +76,12 @@ On this page, you can find a list of my published academic papers. The papers ar
 - **Zhang K**, Zhao Y, Yu ZC, Zhou AF. A 2700-year high-resolution pollen record of climate change from varved Sugan Lake in the Qaidam Basin, northeastern Tibetan Plateau. **Palaeogeography Palaeoclimatology Palaeoecology**. 2010; 297(2):290-8. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.palaeo.2010.08.008-blue)](https://doi.org/10.1016/j.palaeo.2010.08.008)
 
 # Co-author
+
+- Sun, X., Lin, Q., Du, C., Huang, S., **Zhang, K.**, & Shen, J. (2025). Development of the algal pigment-based salinity transfer function for lakes on the Tibetan Plateau and evaluation of the quantitative reconstruction. **Ecological Indicators**, 170, 112998.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998)](https://doi.org/10.1016/j.ecolind.2024.112998)
+
+- Xiang, L., Zhang, D., Wang, W., Farqan, M., Song, X., Yan, C.,..., **Zhang, K.**, ... & Huang, X. (2025). Long-term biotic responses and anthropogenic impacts in dryland lake ecosystems of northwestern China over the past two centuries. **Palaeogeography, Palaeoclimatology, Palaeoecology**, 113075.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.palaeo.2025.113075)](https://doi.org/10.1016/j.palaeo.2025.113075)
+
+- Gillson, L., Seddon, A., Mottl, O., **Zhang, K.**, Kirsten, K., Gell, P., ... & Dearing, J. (2025). Exploring the interface between planetary boundaries and palaeoecology. **Global Change Biology**, 31(1), e70017.[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgcb.70017)](https://doi.org/10.1111/gcb.70017)
 
 - Zhou, S., Long, H., Xing, H., **Zhang, K**., Wang, R. and Zhang, E., 2023. Human activities facilitated the decline of forest ecosystem in East Asia after 5000 a BP. **Earth-Science Reviews**, 245: 104552. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.earscirev.2023.104552-blue)](https://doi.org/10.1016/j.earscirev.2023.104552)
 
