@@ -17,11 +17,11 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 - **Zhang K.***, Gillson, L., Jin, Y., McGowan, S., Finch, J., Liu, Z., ... & Taylor, D. (2025). Shifting paradigms: towards dynamic approaches to sustain Anthropocene lake ecosystems. **Science Bulletin**.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scib.2025.11.029-blue)](https://doi.org/10.1016/j.scib.2025.11.029)
 
-- Hou, J., Lin, Q., Zhang J, Huang, S., Jin, Y., Wang, Y., He, H., Taillardat, P., Taylor, D., **Zhang, K.***, Meadows, M. E,Ecological regime shifts weaken sedimentary carbon sequestration in shallow Lake liangzi. **Water Research**, 2025: 125173.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2025.125173)](https://doi.org/10.1016/j.watres.2025.125173)
-
 - Du, C., **Zhang, K.***, Lin, Q., Huang, S., Han, Y., Ren, J., ... & Shen, J. (2025). Rapid ecological change outpaces climate warming in Tibetan glacier lakes. **Communications Earth & Environment**, 6(1), 523.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998-blue)](https://doi.org/10.1038/s43247-025-02443-6)
 
 - Jin, Y., **Zhang, K.***, Lin, Q., Huang, S., Zhou, X., Ren, J., & Meadows, M. E. (2025). Aquatic community synchrony dynamics in response to multitrophic regime shifts: Paleoecological insights from a shallow lake. **Water Research**, 124402.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2025.124402-blue)](https://doi.org/10.1016/j.watres.2025.124402)
+
+- Hou, J., Lin, Q., Zhang, J., Huang, S., Jin, Y., Wang, Y., He, H., Taillardat, P., Taylor, D., **Zhang, K.***, Meadows, M. E. (2025). Ecological regime shifts weaken sedimentary carbon sequestration in shallow Lake Liangzi. **Water Research**, 125173.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2025.125173-blue.svg)](https://doi.org/10.1016/j.watres.2025.125173)
 
 - Huang, S., Lin, Q., **Zhang K,***, Han, Y., Du, C., & Shen, J. (2025). Abrupt ecological shift and recovery trajectory of a peri‐urban lake in the Anthropocene: Insights from paleoecology and modeling projection. **Water Resources Research**, 61(6), e2024WR038925. [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2024WR038925-blue)](https://doi.org/10.1029/2024WR038925)
 
