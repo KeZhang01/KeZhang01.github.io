@@ -17,7 +17,7 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 - **Zhang K.***, Gillson, L., Jin, Y., McGowan, S., Finch, J., Liu, Z., ... & Taylor, D. (2025). Shifting paradigms: towards dynamic approaches to sustain Anthropocene lake ecosystems. **Science Bulletin**.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scib.2025.11.029-blue)](https://doi.org/10.1016/j.scib.2025.11.029)
 
-- Hou, J., Lin, Q., Zhang J, Huang, S., Jin, Y., Wang, Y., He, H., Taillardat, P., Taylor, D., **Zhang, K.***, Meadows, M. E,Ecological regime shifts weaken sedimentary carbon sequestration in shallow Lake liangzi. **Water Research**, 2025: 125173.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.watres.2025.125173)](https://doi.org/10.1016/j.watres.2025.125173)
+- Hou, J., Lin, Q., Zhang J, Huang, S., Jin, Y., Wang, Y., He, H., Taillardat, P., Taylor, D., **Zhang, K.***, Meadows, M. E,Ecological regime shifts weaken sedimentary carbon sequestration in shallow Lake liangzi. **Water Research**, 2025: 125173.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998)](https://doi.org/10.1038/s43247-025-02443-6)
 
 - Du, C., **Zhang, K.***, Lin, Q., Huang, S., Han, Y., Ren, J., ... & Shen, J. (2025). Rapid ecological change outpaces climate warming in Tibetan glacier lakes. **Communications Earth & Environment**, 6(1), 523.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998-blue)](https://doi.org/10.1038/s43247-025-02443-6)
 
