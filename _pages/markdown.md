@@ -15,6 +15,8 @@ On this page, you can find a list of my published academic papers. The papers ar
 
 # First author/corresponding author（*）
 
+Jin, Y., **Zhang, K.***, Lin, Q., Liu, S., Huang, S., Han, Y., Luo, J., & Meadows, M. E. (2026). Applied paleoecology for macrophyte restoration: Defining Anthropocene baselines in Lake Liangzi. **Journal of Applied Ecology**, 63, e70400. [![DOI](https://img.shields.io/badge/DOI-10.1111%2Fj.1365-2664.70400-blue)](https://doi.org/10.1111/1365-2664.70400)
+
 - **Zhang K.***, Gillson, L., Jin, Y., McGowan, S., Finch, J., Liu, Z., ... & Taylor, D. (2025). Shifting paradigms: towards dynamic approaches to sustain Anthropocene lake ecosystems. **Science Bulletin**.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scib.2025.11.029-blue)](https://doi.org/10.1016/j.scib.2025.11.029)
 
 - Du, C., **Zhang, K.***, Lin, Q., Huang, S., Han, Y., Ren, J., ... & Shen, J. (2025). Rapid ecological change outpaces climate warming in Tibetan glacier lakes. **Communications Earth & Environment**, 6(1), 523.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ecolind.2024.112998-blue)](https://doi.org/10.1038/s43247-025-02443-6)
